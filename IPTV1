@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:SPACE
+http://www.tv-onlinehd.com/space-en-vivo.html
 #EXTINF:-1,USA A&E
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52902
 #EXTINF:-1,USA A&E HD
@@ -47,8 +49,10 @@ http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52848
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52892
 #EXTINF:-1,USA BTN HD
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52736
-#EXTINF:-1,USA CARTOON NETWORK
+#EXTINF:-1,USA CARTOON NETWORK 1
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52847
+#EXTINF:CARTON NETWORK 2
+http://www.fulltelevisionhd.ru/cartoon-network-en-vivo-por-internet/
 #EXTINF:-1,USA CBN HD
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52808
 #EXTINF:-1,USA CBN NEWS
@@ -99,12 +103,17 @@ http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52827
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52826
 #EXTINF:-1,USA DISCOVERY VELOCITY HD
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52825
-#EXTINF:-1,USA DISNEY HD
+#EXTINF:-1,USA DISNEY HD 1
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52846
-#EXTINF:-1,USA DISNEY JR. HD
+#EXTINF:-1,DISNEY
+http://www.fulltelevisionhd.ru/disney-channel-en-vivo-por-internet/
+#EXTINF:-1,USA DISNEY JR. HD 1
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52845
-#EXTINF:-1,USA DISNEY XD
+
+#EXTINF:-1,USA DISNEY XD 1
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52844
+#EXTINF:-1,USA DISNEY XD 2
+http://www.fulltelevisionhd.ru/disney-xd-en-vivo-por-internet/
 #EXTINF:-1,USA DISNEY XD HD
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52843
 #EXTINF:-1,USA DIY NETWORK HD
@@ -569,6 +578,8 @@ http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52638
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52637
 #EXTINF:-1,CA HBO 2
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52636
+#EXTINF : -1, CAN: HBO 2 
+http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/9335
 #EXTINF:-1,CA HGTV
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52635
 #EXTINF:-1,CA HISTORIO
@@ -667,6 +678,8 @@ http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52590
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52589
 #EXTINF:-1,CA SHOWCASE EAST
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52588
+#EXTINF:-1,CA SHOWTIME 
+http://ultraiptv.online:80/MAuenbAzna/nS4YgLfhmN/9332
 #EXTINF:-1,CA SILVER SCREEN CLASSICS
 http://get.centurionlukavac.com:80/eCaP6Yer6j/J6Tia5WdvM/52587
 #EXTINF:-1,CA SLICE
